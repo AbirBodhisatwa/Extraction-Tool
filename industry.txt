@@ -1,0 +1,91 @@
+﻿
+Accounts
+Advertising
+Aerospace
+Agriculture/Agriculture & Agribusiness 
+Air Transportation
+Animation
+Apparel & Accessories
+Architecture
+Automation
+Automobile/Automotive
+Aviation
+Bank
+Banking & Financial services
+Beauty & Cosmetics
+Biotechnology
+Brewery
+Broadcasting
+BPO
+Chemical
+Communications
+Construction
+Consulting
+Consumer Durables/Consumer Products
+Courier
+Defence/Defense
+Education
+Electrical
+Electronics
+Energy
+Engineering
+Engineering & Manufacturing
+Entertainment
+Entertainment & Recreation
+Export Import
+Fashion
+FMCG
+Fertilizers
+Film
+Finance/Financial services
+Fine Arts
+Fishing
+Food and Beverages
+Food Processing
+Gaming
+Gems Jewellery
+Glass
+Health Care
+Hospitality
+HR
+Industrial
+IT
+Insurance
+IT Hardware
+IT Software
+KPO
+Legal
+Life Sciences
+Manufacturing
+Mass Media
+Media
+Media & Broadcasting
+Medical
+Medical Devices & Supplies
+Mining
+Music
+Networking
+NGO
+Oil & Gas
+Paper
+Pharmaceutical 
+Power 
+Procurement & Supply Chain
+Publishing 
+Pulp & paper 
+Real Estate
+Recruitment
+Retail  
+Sanitary
+Sports  
+Steel 
+Telecom
+Timber 
+Tobacco
+Tourism 
+Transportation
+Travel 
+Utilities 
+Water 
+Web Services 
+

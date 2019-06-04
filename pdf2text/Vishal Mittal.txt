@@ -1,0 +1,112 @@
+Vishal Mittal
+ACADEMIC QUALIFICATIONS
+Degree/ Class                            Year      College/ Board                                CGPA/ Percentage
+PGDM                                     2012      Indian Institute of Management, Ahmedabad     3.17/4.33 (PGP1 rank 44/376)
+B.Tech, Electronics and Communication 2007         National Institute of Technology, Kurukshetra 9.57/10 (Top 10%)
+                                                                                                         nd
+HSC (class XII)                          2003      CBSE Board                                    89.8% (2 in district)
+                                                                                                         rd
+SSC (class X)                            2001      CBSE Board                                    87.0% (3 in School)
+Key Electives in IIMA: Infrastructure Development and Financing, Seminar in Retail Management, Foundations of Strategy
+Consulting, Venture Capital and Private Equity, Strategic Financial Management and Managing Customer Value Delivery
+PROFESSIONAL EXPERIENCE                                                                                         45 Months
+ Strategy Consultant                     Business Performance Services, KPMG India                          May 2012  Present
+Project 1: Business Process Transformation for the largest private port in India
+    Scope:
+          o Led transformation of procurement and inventory management processes at the port
+          o Analyzed and benchmarked processes to identify improvement areas and establish process capability
+          o Designed the To-be processes in consultation with client teams and obtained their buy-in for implementation
+          o Project management and monitoring of client teams during implementation of the designed processes
+          o Conducted client engagement workshops and focus group discussions as part of change management initiatives
+          o Coordinated with top consulting firms such as Accenture, AT Kearney and Booz working on other group companies
+              in client organization to ensure alignment of processes across the group
+          o Liaised with SAP SRM and MM experts from leading firms such as SAP India and Accenture for customization of SAP
+              as per process requirements
+          o Worked on setting up a Business Excellence cell to ensure sustainable and continuous improvement
+    Impact: The designed processes are estimated to reduce the procurement lead time by 50% and inventory stock by ~35%
+Project 2: Assessment of tourism in Himachal Pradesh (HP) and highlighting the way forward for the state
+    Scope: Benchmarked HP tourism with other states, understood key drivers of tourism in India, highlighted concern areas of
+     tourists, tours operators & other market participants in HP and made recommendations
+    Impact: The report was released by Chief Minister of Himachal Pradesh at the State Tourism Conclave
+Project 3: Market assessment and entry strategy for a leading multinational company in the renewable energy space
+    Scope: Customer segmentation, FGDs with target customer segments, Market sizing, Competition assessment, Value chain
+     analysis and Regulatory impact
+    Impact: Client accepted the recommendations and delayed the entry into renewable energy space
+ SUMMER INTERNSHIP                        Business Performance Services, KPMG India                      Apr 2011  May 2011
+    Achievement: Only intern out of six to be given a Pre-Placement Offer (PPO) after summer internship
+    Role and Responsibilities:
+           o Modelled clients cost structure for product portfolio using standard costing and variance analysis
+           o Developed a variance analysis dashboard to compare performance across clients different workshops
+           o Developed a matrix for benchmarking supply chain management across firms
+           o Assisted in competitive assessment of various bidders for a Greenfield PPP port project in Gujarat
+Adobe Systems, Noida                         Software Quality Engineer  Level 2                          Dec 2008  May 2010
+  Role and Responsibilities:
+           o  Quality Assurance of a video editing product  Adobe Premiere Elements; lead of Automation testing in the team
+           o  Mentored the after sales customer support team to resolve customer issues in a better manner
+           o  Analyzed competitor products in US market and recommended features based on these studies
+           o  Conceptualized and developed an Action Item tracking tool for better follow-up of action items
+           o  Assisted in beta testing of the product and escalated critical issues to the product management
+           o  Single point of contact for interactions with the US product development team
+    Impact and Recognition:
+          o Awarded bonus for leading the QA of innovative features like Motion tracking and Face Recognition
+          o Improved testing efficiency by 30% by increasing the coverage of automation testing
+ Amdocs Development Ltd., Cyprus              Programming Subject Matter Expert                          Aug 2007  Nov 2008
+    Amdocs: Amdocs is the leader in telecom billing products with revenue of $3.2bn in 2011. Its clients include industry leaders
+     like AT&T and Vodafone
+    Client: Comcast Corporation is one of the worlds leading media, entertainment and communications companies. It operates
+     in North American market and had $55bn turnover in 2011
+    International Exposure: Worked in a multi-cultural environment in Cyprus with nationals from US, Greece, Romania, Moldova
+     and Cyprus
+            o Provided onsite consulting to Comcast Systems in US; guided them in testing processes
+
+
+                                        PHONE: +91- 96506 03335  EMAIL: p10vishalm@iimahd.ernet.in
+      Role and Responsibilities:
+             o Quality Assurance of an invoicing software for digital cable, broadband and telecom industry
+             o Exposure of working across multiple product modules  Data Warehousing and Business Intelligence, Customer
+                 Relationship Management (CRM), Billing and Accounts Receivables
+             o Reviewed the product requirement documents (PRDs) of complex features, studied technical design documents
+                 and created test plans to test functionalities
+      Impact and Recognition:
+             o Initiated testing automation thereby reducing testing time by 20% and saving 55 man-days a year
+             o Rated in the top 10% Subject Matter Experts in Amdocs Cyprus
+INDUSTRY/ ACADEMIC PROJECTS
+                           Worked on a live project for Infibeam, which is a leading e-retail company and Exceeded Expectations
+    Live consulting
+                           Developed a detailed cost-benefit model to evaluate strategic options for in-house logistics operations
+      Project - I
+                           Recommendations are in implementation stage with in-house operations starting in the NCR
+                           Worked with Arvind Mills to analyze the acceptance of Denim Suiting as a new category
+    Live consulting
+                           Market research involved the entire value chain comprising 15 retailers, 10 tailors and 560 customers
+      Project - II
+                           Designed promotional activities and campaigns to raise awareness in the entire value chain
+                         Aviation Sector: Analyzed the new ground handling policy and its impact on various stakeholders
+Academic Projects
+                         Retail Sector: Analyzed the impact of opening FDI in Retail Sector on different stakeholders
+KEY SKILLS & SPECIALITIES
+                         Business Process Re-engineering (BPR), Process Mapping, Business Strategy, Competition assessment,
+    Business skills
+                          Financial Modelling, Valuation, Data Analysis & Project Management
+    Technical skills     Microsoft Office (Advanced level), VBA, PL/SQL, C & C++, Automation, Unix and Perl
+SCHOLASTIC ACHIEVEMENTS
+ Performance in IIMA: Ranked among top 10% students in Business Taxation (8/377), Decision Making (21/377), Strategic
+  Financial Management (5/87), Corporate Finance (22/376) and Financial Reporting (35/378)                        (2010-11)
+ Only student from the department to get an international job offer during engineering campus placements            (2007)
+ Secured 99.41 percentile (out of 3,00,000) and state rank of 62 in AIEEE entrance test                             (2003)
+ Secured 99.68 percentile (out of 2,41,752) in CAT and secured final admission offer from 4 IIMs  A, B, K and I    (2010)
+ Secured an All India Rank of 3692 out of 1,58,148 in IIT-JEE entrance examination                                  (2003)
+POSITIONS OF RESPONSIBILITY/EXTRA CURRICULAR ACTIVITIES
+   Winner of Product shoot-out, a Movie Making Contest in Adobe Systems in QE Summit                                       (2010)
+   Coordinator of NSS in NIT Kurukshetra, organized tree plantation drives                                                (2006-07)
+   Member, Electronics club (Microbus) in NITK, organized technical festivals Literati and Apex                           (2005-07)
+   Winner of Badminton championship in NIT Kurukshetra for 3 years in a row                                               (2004-06)
+   Appointed as House Prefect in school and participated in various quizzes and declamations                                 (2001)
+OTHER INFORMATION
+ Sports: Passionate about lawn tennis, especially Nadal vs Federer matches and follow cricket as well
+ Travel: Love travelling abroad as well as within India; Business Visa of US valid up to 2018
+
+
+
+
+                                             PHONE: +91- 96506 03335  EMAIL: p10vishalm@iimahd.ernet.in

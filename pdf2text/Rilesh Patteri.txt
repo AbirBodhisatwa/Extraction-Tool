@@ -1,0 +1,120 @@
+                                          RILESH PATTERI
+                                                  Cell: +91 8879312532
+                                                 rileshpatteri@gmail.com
+
+                                                      SUMMARY
+To work in a progressive organization where I can enhance my skills and learning to contribute to the success of the
+organization. 5 years of EOD running and support experience of FCC and FCR Softwares.*A FlexCube Functional Expert
+with more than 5 years of hands on experience in Oracle Financial Software Solutions (i-flex Solutions) FLEXCUBE
+RETAIL (FCR Version 6.2 & FCR Version 11.6). *Experience in RTGS AND NEFT Transactions Monitoring and Support.
+ *Extensive experience in post implementation and support of FCR application Versions 6.2 and 11.6. *Handling of MIS
+reports and other banking reports. *Hands on experience in application and database patch implementation in UAT and
+production setup and testing. *Knowledge in SQL query & PL/SQL language.
+
+                                                        SKILLS
+       Concepts : Banking
+       Fundamentals,FCR,RTGS,NEFT,EOD/BOD,Operating
+       System, Networking & Database.
+       Banking
+       Modules:CASA,TD,CLEARING,PAYMENTS,CHARGES.
+       Operating System : Windows XP,WIN-
+       2K,WIN-,2K3,WIN-7,UNIX,LINUX & AIX systems.
+       Database Language : SQL,PL/SQL.
+       Database Tools : PL/SQL Developer,TOAD,SQL
+       Navigator
+       Testing Tools : Manual Testing
+       Database : Oracle
+
+                                               WORK EXPERIENCE
+                                                  WIPRO INFOTECH
+                                                      Mumbai
+Senior Application Support Engineer                                                                       08/2014 to Current
+       Providing Techno Functional Support to Our Layer 1 Application Support Team members.
+       Providing 1st level telephonic support during EOD shells aborts, hung and run long time.
+       Providing support in sql query preparation to L1 team for providing various data to different department.
+       Providing any audit related,Demonetization related and other MIS Report which needs to submit RBI to bank
+       officials.
+       Providing Clarification/advice and Temporary and Permanent Solution to queries raised by Different Departments
+       Bank officials.
+       For any system bug or Issue ,raising the issues with Vendor and the fix provided by Vendor gets tested in UAT with
+       the help of Testing team.Then raising RFC with fix and POA and presenting it in CAB meeting and gets the RFC
+       approved and the changes gets applied in system coordination with Database and Release management team.
+       Once in a week will perform consistency check in CASA and TD accounts for any balance mismatch and also do the
+       checks for other system bugs.
+       Monitoring GLs on daily/Monthly basis and providing Rectification entries to OPS team with necessary Approval
+       and Remarks.
+       Performing Bank level maintenance like Clearing Holiday,NEFT/RTGS Holiday and cutoff,Saving,TD Slab and
+       Rate maintenance ,FCNR and RFC deposit rate maintenance.Always verifying rates are applied properly post
+       effective date EOD and providing report to Product team.
+        Performing Activities like New Branch Setup,New CASA/TD product creation and modification and other
+       parameter maintenance like Endpoint Creation,DD Branches, MICR & Routing code,Currency Codes,Sector
+       Codes,UDF and CBR fiels ,Picklist ,Cards,etc..
+       Post Month end release performing Monthly statement and Combined statement process and doing consistency
+       check on statement report tables and handover to E statement team and Vendor for Statement printing.
+       Post Monthend Release Manually calculating AMB/AQB charges, AMB based Cash Deposit Charges and IMPS
+       charges for the month/Quarter for whole Active and Applicable accounts and applying the charges through gefu by
+       OPS team post verification and approval from product team.
+                                               WIPRO INFOTECH LTD
+                                                      Mumbai
+Application Support Engineer                                                                            07/2012 to 08/2014
+      Day-to-day production support queries raised by more than 1000 Branches 3 NOCs.
+      Solving branch users' queries of FCR application on daily basis, Playing Techno functional roll. On basis of
+      functionality FCR Modules supported are : CASA,TD,CLEARING,PAYMENTS AND CHARGES.
+      Preparing various Daily/monthly MIS report and publishing to different Departments.
+      Deployment of vendor provided units and database patches first in UAT and if tested OK then deployed in
+      PRODUCTION setup.
+      Co-ordination with Network team and database team to resolve the queries related to link or database related
+      Problems
+
+
+                                                  WIPRO INFOTECH
+                                                      Mumbai
+Data center Operation                                                                                   09/2007 to 07/2012
+       EOD and BOD of IFLEX core banking solutions- FCC (Flex Cube Corporate) and FCR (Flex Cube Retail),
+       MUREX Treasury Banking Application, Retail Asset (Finn One, LMS, FAS etc) , CASHIN (Collection and
+       Disbursement), RBI applications viz. RTGS PI, SFMS, NEFT, CFMS, PDO NDS and CCIL Applications.
+       EOD aborts and Escalation handling.
+       Deployment of Patches/units in various banking applications Production servers and databases.
+       RMAN, ARCHIVE, MKSYS and export and tape backup of AIX and windows servers and dbs as per daily, weekly
+       and monthly schedule.
+       Housekeeping activities on a windows and AIX systems on daily, weekly, bi-monthly, monthly and quarterly
+       schedule after completion of respective tape backups.
+       Operation activities like Importing and Exporting backup of tables, Indexing and Analyzing of different db schemas,
+       and database Startup and Shutdown operation as per the weekly or monthly schedules.
+       Preparation and maintenance of MIS reports for audit purpose. Documentation of Operational Manuals and
+       EOD/BOD/BACKUPS checklists.
+       Site Induction for new joiners'.
+                                                  ACCEL FRONTLINE LTD
+Customer support Engineer                                                                  09/2005 to 09/2007
+      Performance of CSOLOP, CEOD, CBOD and ISOLOP of Finacle Core Banking application.
+      EOD/BOD and IT support of RBI Applications like RTGS, PDO-NDS, CFMS and CCIL application.
+      Daily file transfer activity, services restart and logs backup of live servers
+
+                                          EDUCATION AND TRAINING
+HIGH SCHOOL DIPLOMA: DIPLOMA IN ELECTRICAL ENGINEERING                                                          Jun-2005
+Government Polytechnic collage , Kannur, Kerala, India
+Electrical Engineering Department of Technical Education Kerala in with 74.5% of marks.
+ASSOCIATE OF SCIENCE: H.S.C,SCIENCE                                                                                  2002
+IMNGHSS SCHOOL, Kannur, Kerala, India
+Passed H.S.C. from Board of Public Examination Kerala in Mar  2002 with 63% of marks.
+       IBM Certified Specialist System p Administration.
+       Certified on Introduction to Oracle 9i: SQL.(Certificate No- OC0951618) .
+       Participated in 20 days Training Program on Basics of IT hardware and Network & Unix system conducted by
+       ACCEL IT ACADAMY, Kochi-Kerala.
+       Participated in 3 days Training Program on Oracle 11g Database Administration conducted by Wipro InfoTech,
+       Mumbai.
+       Completed Certification Training course on Basics of Windows system conducted by CMS Institute in Vashi,
+       Mumbai.
+       Completed Certification Training course on Linux Administration conducted by Rajeev Banerji in Vashi, Mumbai.
+       Completed Certification Training course on PL/SQL  Introduction to Oracle 9i conducted by NIIT in Vashi,
+       Mumbai.
+
+                                                  PRESENTATION
+Presented a seminar entitled "Electrical Power generation & Transmition" at Annual Tech fest of College.
+                                        PERSONAL INFORMATION
+Date of Birth : 21-Feb-1984 Sex : Male Passport No : K1518725 Languages Known : English, Hindi, Malayalam, Tamil and
+Marathi Nationality : Indian
+
+                                       ADDITIONAL INFORMATION
+      Personal Profile: Date of Birth : 21-Feb-1984 Sex : Male Passport No : K1518725 Languages Known : English,
+      Hindi, Malayalam and Tamil Nationality : Indian

@@ -1,0 +1,89 @@
+                                                             Sayan Maiti
+             Bangalore, Phone: +91-7389464800, Email: sayan.comc@gmail.com, Linkedin: in.linkedin.com/in/sayanmaiti/
+
+Introduction I am an MBA from IIM Indore class of 2013 where I was the Gold Medalist for all round performance among 445 students. I
+have 3+ Years of experience across Software Development, Testing, Product Management, Market/Sector Research and Analytics.
+Skills Market Research, Analytics (SPSS & R), Programming (C, C++ & Perl), Product & Project Management
+Domain Knowledge Retail, Telecom
+
+ACADEMIC RECORD
+Indian Institute of Management, Indore                                                                                        2011 - 2013
+PGDM Finance, Marketing & Strategy                                   GPA: 3.32 / 4.00 (Institute Rank 16 out of 445 students)
+Domain - Analytics
+Building Firm Capabilities, Internet Based Platform Strategies, Mergers Acquisitions and Corporate Restructuring, Business Analysis and
+Valuation, Investment Banking, Options Futures and Derivatives, Security Analysis and Portfolio Management, Advanced Marketing Research,
+Brand Management, Customer Relationship Management, Consumer Behavior, Business Analytics
+National Institute of Technology, Allahabad                                                                                   2004 - 2008
+Bachelor of Technology - Computer Science and Engineering          GPA: 9.20 / 10.00 (Merit List Top 15% of Class)
+Class XII Kendriya Vidyalaya No 1 Ichapur (CBSE)                   Percentage: 89.46 % (School Topper)                        2002 - 2003
+Class X - Kendriya Vidyalaya OF Medak (CBSE)                       Percentage: 91.40 % (School Topper)                        2000 - 2001
+Achievements
+   Awarded Gold Medal for Best All Round Performance in the batch among 445 PGP participants at IIM Indore
+   Nominated for the OP Jindal Scholarship for being in the top 20 students ( Rank 18 ) among 450 participants in PGP1
+   Runner up among 600+ teams in Neethisastra, the live Consulting event of Ahvan, the inter college summit of IIM Indore
+   Runner up in Battleground : Troika Challenge, the inter college consulting case study competition of IIM Shillong
+   Campus Finalist ( Top 5 Teams ) at Tata Business Leadership Awards (TBLA) organized by TAS at IIM Indore
+   Campus Finalist at Great Innovation Challenge the Flagship event of IIM Calcutta s Management Festival Intaglio
+   Finalist at Mach-B, the strategy case study competition of Symbiosis Institute of International Business, Pune
+   Nominated for the best summer internship projects ( Top 11 ) from PGP1 summer projects
+   Among top 1% candidates in the National Cyber Olympiad 2003 in and top 2% of candidates in National Science Olympiad 2002
+PROFESSIONAL EXPERIENCE
+                                                              Full Time
+Capgemini, Senior Consultant                                                                                          Jun        Present
+   Selected as a campus graduate for Chrysalis batch of 2013, which is a programme for developing future leadership for Capgemini
+   Working in the Business Information Management(BIM) horizontal which provides analytics based solutions to clients
+   Working as an EA/PMO to the Global Vice President of Solutions & Delivery at Capgemini BIM
+   Working on different proposals in the Retail and Consumer Durables space
+Mahindra Comviva Technologies Limited, Bangalore Summer Intern                                                        Apr        May
+Prediction of customer lifetime value & devise schemes to reduce churn rates (Telecom Analytics)
+   Used statistical tools like SPSS to analyze transactional data to determine customer lifetime value and churn rates
+   Segmented users into different categories based on factors like frequency, usage and demographic data
+   Suggested various plans for the different segments of users to increase usage e.g. combo deals, referral bonuses etc
+   Based on the overall diagnosis, devised a model to predict customer churn with accuracy of more than 50%. It will help in reducing
+    churn rates and retaining users thereby increasing ARPU
+Oracle India Private Limited, Bangalore Senior Member Technical Staff                                                  Jul       Jun
+   Involved in the complete lifecycle for Oracle s best-selling Database Product (Oracle 11G) and worked for both testing and
+    development teams of the product
+   Wrote functional and design specifications for Database Configuration Tool (Oracle tool for creating database) for various
+    configurations ( Single Instance and Cluster )
+   Developed a faster new UI for Oracle s G Database release which resulted in 30% less navigation time
+   Revamped Oracle DB s automation & increased coverage from 25% to 65% thereby ensuring reduced testing time
+   Worked on C, Perl, C++, Oracle Database, SQL
+Achievements
+   Consistently ranked among the top 5% of the employees based on performance ( Rated 5/5 for two consecutive years )
+   All achievements ensured initiation of promotion to the senior role within 2 years of joining Oracle
+                                                                 Part Time
+CareerAnna.com , Co-Founder                                                                                           May      Present
+   CareerAnna.com was founded with the objective of providing a comprehensive source of information to B-School Aspirants, present B-
+    School Students and everyone else who wants to get information about MBA.
+   I handle the Product Management and Marketing part of the website
+Startup (Stealth), Marketing and Product Management                                                                    July    Present
+   Designing the go to market strategy for a startup in the real estate sector
+   Designing the blueprint for the product launch in the online space
+SportsKeeda.com , Bangalore Product Manager (Ad-hoc basis)                                                            Jan     Jun
+   Did a market research to find out the reasons for slowing down of traffic on the website and came out with solutions
+   Designed innovative products to attract new readers resulting in a 100% increase in traffic over a period of 3 months
+PROJECTS AND PAPERS
+   HCL InfoSystems (Live Project) - Worked on a project which evaluated the cables & connectors market in India and did a
+    competitor analysis. Based on the analysis, recommended new products which could be launched in the specific category.
+   Share Development Economics (Organization for International Projects) - Worked on a proposal which evaluated the
+    scope of sports sector for generating employment in India. Suggested a model based on the recommendations.
+POSITIONS OF RESPONSIBILITY
+   Secretary, Toastmasters IIM Indore Chapter                                                                          Dec   -Jan
+    -   Founding member of the team responsible for setting up the Toastmasters IIM Indore Chapter in 2011
+   Senior Member Projects, Utsaha ( National Institute of Banking Management )                                         Nov   -Feb
+    -   Did a rural market research project to understand & measure the banking & financial literacy of the rural consumers
+    -   Used SPSS and excel to categorize and synthesize the data and came up with suitable recommendations
+   Head, Media Team, Indore Marathon                                                                                   Nov   -Nov
+    -   Lead a 10 member team in getting coverage for Indore Marathon on channels like newspaper, online medium and TV
+   Senior Member, Quiz Club IIM Indore                                                                                 Dec   -Dec
+    -   Conducted various quizzes and handled the social media interaction of the quiz club in Facebook
+   Senior Member, Chain Reaction ( Operations Event ), Ahvan                                                           Dec    -Dec
+   Sub-Head, GnosioMania, Literary and Quizzing festival of MNNIT Allahabad                                            Jun   -May
+EXTRA-CURRICULAR ACHIEVEMENTS
+   Winner of IIM Bangalore s V Connect Quiz and IIM Ahmedabad s Confluence Quiz
+   Winner of ITC s Interroquiz conducted as a part of ITC Interrobang for consecutive years ( 2011 & 2012 )
+   Student Coordinator for 100 PGP2 students for the Himalayan Workshop at Nainital conducted by the PGP Office
+   Part of the IIM Indore Table Tennis team and won the bronze medal at the IIM Lucknow Sports meet among 16+ teams
+   Winner of Veritas, Media and Journalism event conducted by Media committee at IIM Indore , among 150+ participants
+   Secured 2nd prize in the Corporate Quiz and 3nd prize in the General Quiz at the IT BHU Cultural Festival, Kashiyatra

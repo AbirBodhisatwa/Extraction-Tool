@@ -1,0 +1,544 @@
+ devi.nizam@gmail.com                                                                +91-9550424142
+
+
+
+
+ Devi Prasad Nizam
+
+                  Over 12 years 10 months of experience including 1.9 years of experience
+Technical /
+                   at Onsite (Client Location) in Embedded software, firmware Development
+Domain
+                   and Testing in Automotive domain significantly in Active Safety Systems
+Expertise
+                   like Anti-Lock Braking Systems(ABS) and Driver Assistance systems(DAS)
+
+                  Experience in handling bigger teams as a Manager, Currently handling the
+                   DAS team (40 members) supporting UK and EU Geographies in TCS.
+
+
+                  Exposure in dealing with different customers from all around the world.
+
+
+                  Involved in almost all the phases of life cycle like Requirement analysis,
+                   Software development and testing of Automotive Embedded systems.
+
+                  Good basic software and application level development experience in the
+                   area of Radar based DAS systems.
+
+                  Excellent knowledge in CAN Communication Protocol, GMLAN, KWP2000,
+                   J1939 and UDS
+
+                  Excellent knowledge and hands-on in all the Vector tools and others tools
+                   which CMC/TCS internally developed (GTAF)
+
+                  Good working experience in C language.
+
+                  Strong knowledge in the area of SPICE automotive quality standards
+                   (PAM3.0) and also participated in interview for the SPICE evaluation.
+
+                  Good exposure to Software and requirement Configuration Management
+                   procedures using VSS, AllChange, PVCS, DOORs and Integrity.
+
+
+                  TRW Automotive, Cirencester, England, UK (Mar 2011  Mar 2012)
+Worked at
+Client            WheatherFord - Ep-Solutions, Oklahoma city, USA (Sep 2008  Mar 2009)
+locations         TRW Automotive, Livonia, USA (Sep 2007  Dec 2007)
+
+
+
+
+ Skill Set
+
+Operating System                 Windows XP /windows 7
+
+                                 IDE/Compilers (VISUAL C++ 2008 Express edition)
+                                 Testing tools (CANalyzer , CANoe, CANape, SDATT,
+Tools                             Canoe.Diva, CANStress )
+
+
+                                 CM tools (Visual source safe (VSS), PVCS, AllChange,
+                                  DOORs and Integrity)
+Programming Languages            C, CAPL
+Communication Protocols          CAN, J1939, UDS, KWP2000, GMLAN
+
+
+
+
+                                                                                           Page 1 of 8
+ devi.nizam@gmail.com                                                                  +91-9550424142
+
+
+
+
+ Education Summary
+
+Degree and       Institute                               Major and Specialization
+Date
+
+Bachelor of      Jawaharlal Lal Nehru                    Electrical and Electronics Engineering.
+Technology       Technological University,
+                 Anantapur(2001-2005)
+
+
+
+
+ Experience Profile
+
+
+
+ Key Projects
+                 ZF TRW Automotive
+Client Name:
+                 Development and testing of Adaptive Cruise Control software (Driver
+Project Title:   Assistance Systems)
+Period:          Feb-2017 Till date
+Position:        Manager
+Responsibiliti        Managing offshore team.
+es
+                      Working on new Proposals and having detailed discussions with Customers
+                       to materialize the Proposals.
+                      Playing a crucial role in defining the strategy for any new Activity which
+                       Customer expects and agreeing.
+                      Reviewing schedules and plans depends on software delivery schedule.
+                      Guiding team to automate testing wherever applicable.
+                      Making sure that SPICE process is followed in all applicable areas
+                      Responsible for offshore work delivery.
+                      Coordinating between Clients and offshore.
+                      Ensuring Billing and PO related activities are done on timely basis.
+                      Ensuring Allocations and trainings are properly planned to be in sync with
+                       future deliverables.
+
+
+Project          Adaptive cruise control (ACC) is an intelligent form of cruise control that slows
+                 down and speeds up automatically to keep pace with the car in front of you.
+                 The driver sets the maximum speed  just as with cruise control  then a
+                 radar sensor watches for traffic ahead, locks on to the car in a lane, and
+                 instructs the car to stay 2, 3, or 4 seconds behind the person car ahead of it
+                 (the driver sets the follow distance, within reason). ACC is now almost always
+                 paired with a pre-crash system that alerts you and often begins braking
+Project          TCS, Hyderabad
+Location
+
+
+Client Name:         ZF TRW Automotive
+
+
+
+
+                                                                                              Page 2 of 8
+ devi.nizam@gmail.com                                                                       +91-9550424142
+
+
+
+
+Project Title:         Functional Testing for ACC Fusion Software (Radar-Camera Fusion)
+Position           :   Functional Test Lead
+Period      :          Nov 2010  Jan 2017
+Description            Adaptive cruise control (ACC) is an intelligent form of cruise control that
+:                      slows down and speeds up automatically to keep pace with the car in front
+                       of you. The driver sets the maximum speed  just as with cruise control 
+                       then a radar sensor watches for traffic ahead, locks on to the car in a lane,
+                       and instructs the car to stay 2, 3, or 4 seconds behind the person car ahead
+                       of it (the driver sets the follow distance, within reason). ACC is now almost
+                       always paired with a pre-crash system that alerts you and often begins
+                       braking.
+                                Software Requirement Analysis
+Responsibilitie
+s:                              Embedded Software Development support for Adaptive Cruise
+                                 Control Systems based on Radar Technology (for trucks and cars)
+                                Co-coordinating with Different test team in India and UK and ensure
+                                 all the deliverables are properly planned and delivered.
+                                Testing and documentation of the test cases using Canoe, CANape
+                                 and DOORS tools.
+                                Support for internal tools development.
+                                Debugging and fixing the issues raised by test team
+                                Test scripts and test procedure review.
+                                Developing test automation software.
+
+                                 CANoe, CANapae, Oscilloscope, CAPL (CAN Access Programming
+Tools &
+                                  Language)
+Software:
+                                 DOORS, Integrity, AllChange
+
+
+
+
+Client Name:           ZF TRW Automotive
+Project                PSA RADAR
+          Title:
+Position           :   Developer and Test Engineer at Customer Location (Cirencester, UK)
+Period      :          Mar 2011  Mar 2012
+Description            Adaptive cruise control (ACC) is an intelligent form of cruise control that
+:                      slows down and speeds up automatically to keep pace with the car in front
+                       of you. The driver sets the maximum speed  just as with cruise control 
+                       then a radar sensor watches for traffic ahead, locks on to the car in a lane,
+                       and instructs the car to stay 2, 3, or 4 seconds behind the person car ahead
+                       of it (the driver sets the follow distance, within reason). ACC is now almost
+                       always paired with a pre-crash system that alerts you and often begins
+                       braking.
+
+
+                                 Understanding of customer and software requirements.
+Responsibilitie
+s:                               Participating in the meetings with the Client to get clarifications and
+                                  providing the observations from our side.
+                                 Designing and implementing the software code as per the
+                                  requirements.
+                                 Development of System software design document (SDD) and
+                                  software requirement specification (SRS)
+                                 Clarifying the requirements for team members from System
+                                  perceptive.
+                                 Uploading the SRS and SDD in DOORS.
+                                 Participating in Peer reviews to make sure that Code is Fault free and
+
+
+
+
+                                                                                                  Page 3 of 8
+ devi.nizam@gmail.com                                                                  +91-9550424142
+
+
+
+
+                             prepare the Defect Logging Track Sheet.
+                            Involved in Quality team as well to ensure that all the deliverables
+                             from offshore are sent as per Spice process
+
+
+
+
+                            Digital Oscilloscope, CANoe, CANape, Canoe Diva , GHS compiler
+Tools &
+Software:                   C, CAPL (CAN Access Programming Language)
+                            DOORS, Integrity and AllChange.
+
+
+
+
+Client Name:          ZF TRW Automotive
+
+Project Title:        Development of Non-Performance Domain (MMI  Man Machine Interface)
+
+Position          :   SW development Team member at Client Location, Cirencester, UK
+Period     :          Mar 2011  Mar 2012
+Description       :   MMI domain consists of ACC Top level state machines. The user interface to
+                      the ACC system is managed here, e.g. the main switch, set, resume, cruise
+                      increment and cruise decrement button presses. These determine whether
+                      the ACC should be active and what value of cruise speed and headway gap
+                      it should attempt to control to. This process also manages cancellation and
+                      shutdown logic and the sounding of gongs and display of optical warnings
+
+                            Implementation of code for the PRs[Problem Report] raised in
+Responsibilitie
+                             AllChange.
+s:
+                            Performing bench level tests for the requirement modified or the fix
+                             provided
+                            Performing QAC Analysis for the files modified and verify that
+                             warnings are resolved
+                            Build the code using WindRiver compiler for the changes
+                             implemented and verify that no warnings or errors reported by
+                             Compiler
+
+
+Tools &                     CANoe, CANape, CANStress, AllChange, QAC 7.1.1
+Software:
+
+
+
+
+Client Name:          ZF TRW Automotive
+Project Title:        Functional Testing on Driver Active Systems (ACC  Adaptive Cruise Control)
+Position          :   SW Verification Team Lead
+Period     :          Nov 2009  Feb 2011
+Description           Functional Testing involves developing Test Specification as per the
+:                     requirements for MMI (Man-Machine Interface), SYSHEALTH (System Health),
+                      CAN, DIAG and to develop Test Cases using Vector CANoe and CAPL
+                      Programming Language. Vehicle environment is simulated using CAPL
+                      scripting. This also involves in developing CCP Protocol, which would reduce
+                      the usage of Vector CANape [Calibration and Measurement of variables
+                      using CAPL].
+
+
+
+
+                                                                                            Page 4 of 8
+ devi.nizam@gmail.com                                                                     +91-9550424142
+
+
+
+
+                              Developing Test Specification from Software Requirement
+Responsibilitie
+                               Specification in DOORS.
+s:
+                              Developing Test Cases using CANoe and CAPL Scripting
+                              Updating Test results in DOORS
+                              Failures are reported to customer in the form of PR [Problem Report]
+                               in AllChange
+
+
+Tools &                       CANoe, CANape, CANStress, DOORS 8.3, AllChange
+Software:
+
+
+
+
+                       ZF TRW Automotive
+Client Name:
+
+Project                Software in Loop Testing of DSI module
+          Title:
+Position           :   SW testing Team member at client location TRW Automotive, Livonia, USA
+Period      :          Aprl 2008 - Mar 2009
+Description        :         Failsafe limits and converse conditions (FLCC) involves validating the
+                       software for all the faults as per the failsafe manual defined for the software
+                       to be tested. The project involves development of test cases, test
+                       procedures and generate the Test report for fail-safe prove out system by
+                       simulating the faults using Simulator and tester software, according to the
+                       customer specification.
+
+
+                       The verification was performed for Daimler Chrysler, Ford and GM
+                       Corporation.
+                              Collecting requirements from Failsafe Manual and Fault Database.
+Responsibilitie
+s:                            Manually creating Wiz files for generating ABS, TC and YSC events.
+                              Setting up the fault free working CIM after connecting ECU to
+                               simulated sensors and actuators using HIL simulation.
+                              Developing wiz files for simulating particular fault condition.
+                              Creating Particular Fault and verifying the Lamp Responses, Events
+                               during the fault is active
+                          
+Tools &                       Automake, Bench Wizard, Merlin, CANalyzer, CANape, JTAG and
+Software:                      Code    Composer, SDATT Tool
+
+
+Client Name:           ZF TRW Automotive
+Project Title:         Deriving Functional Specifications from the existing code developed on
+                       8086 processor
+Position           :   SW Developer at Client Location Ep-Solutions, Oklahoma City, USA
+
+Period      :          Dec 2007  Mar 2008
+Description        :   The project involves deriving the functional specifications and flow of
+                       existing code developed on 8086 processor for RTU (Remote Terminal Unit)
+                       design. Remote Terminal Unit (RTU) provides the user to gather well
+                       pressure, temperature & flow measurements, and display & control the gas
+                       wells production and optimization techniques. The project also involves the
+                       developing design document for the abstraction layer which is developed
+                       between the application layer and the low level driver calls which
+                       implements the reusability of the existing code
+                              Understanding the code flow and functionality of the RTU.
+Responsibilitie
+                              Understanding the protocols through which the RTU communicates
+
+
+
+                                                                                                Page 5 of 8
+ devi.nizam@gmail.com                                                                  +91-9550424142
+
+
+
+
+                              with the other modules (like MVT, MODBUS, TankStick) to exchange
+s:                            the data.
+                             Understanding AGA calculations and documenting different versions
+                              of AGA calculations from the exiting software
+                             Documenting the algorithms and flow charts from the code.
+                             Documenting the protocols, functionalities and overall flow of the
+                              existing code in the RTU.
+                          
+      Tools &                MULTI Editor
+     Software:
+
+
+
+
+Client Name:          ZF TRW Automotive
+Project Title:        Communication IO Module Testing on Vehicle Stability System Module
+                      (ABS/TC/YSC)
+Position          :   SW development Team member
+Period     :          July 2007  Nov 2007
+Description       :   The project involves complete testing of communication modules comprising
+                      either ABS Only (or) ABS/TC/YSC functionalities. CIM under test receives CAN
+                      messages from different ECUs in the Vehicle Network for its operation.
+                      Depending on the signal values from received messages the functionality of
+                      the CIM can be controlled and tested for its exact operation. Also CIM
+                      transmits messages periodically on the CAN bus and these messages
+                      indicate the operating state and behavior of the CIM. Testing involves
+                      simulating applicable ECU CAN messages, including sensor messages for
+                      CIM under test, using Bench wizard and Merlin and verifying, validating that
+                      the CIM under test does receive and transmit all functional messages as per
+                      the requirements specified in CAN database file (DBC).
+                      The verification was performed for Daimler Chrysler, Ford and GM
+                      Corporation
+                             Collecting requirements from CAN database and other Customer
+Responsibilitie
+                              specific documents.
+s:
+                             Development of Test Plan that verifies and tests the signal properties
+                              in the messages as mentioned in the CAN database and other
+                              Customer specific documents.
+                             Manually creating Wiz files for Tx signals mainly the Wiz files that
+                              generate ABS, TC and YSC events on the bench in the lab for the
+                              CIM.
+                             Configuring the module for FSC.
+                             Setting up the fault free working CIM after connecting ECU to
+                              simulated sensors and actuators using HIL simulation.
+                             Executing Wiz files for Rx and Tx signals and capturing them in the
+                              form of bwd graphic files.
+                             Analyzing the graphic files on the PXGraph and checking the
+                              messages collected from the CAN network if required, to verify that
+                              signals are behaving as per their properties mentioned in CAN
+                              database.
+                             Updating the customer with the overall results in terms of number of
+                              passed and failed signals with appropriate comments and
+                              observations.
+                         .
+Tools &                      Automake, Bench Wizard, Merlin, CANalyzer, CANape, JTAG and Code
+Software:                     Composer, SDATT Tool
+
+
+
+
+                                                                                             Page 6 of 8
+ devi.nizam@gmail.com                                                                    +91-9550424142
+
+
+
+
+Client Name:          ZF TRW Automotive
+Project Title :       Diagnostics Verification on Vehicle Stability System Module (ABS/TC/YSC)
+Position          :   SW testing Team member
+Period     :          Jan 2007  June 2007
+Description       :            The project involves complete diagnostic testing of communication
+                      modules comprising either ABS Only (or) all ABS, TC and YSC functionalities
+                      as per specifications provided by the customer. Involves diagnostic testing
+                      for all Diagnostic Service Identifiers (SID) by developing test scripts using
+                      CAPL Scripting and also using SDATT tool according to the specification
+                      document provided for the software
+
+
+                      The verification was performed for Daimler Chrysler, Ford and GM
+                      Corporation
+
+
+
+
+                             Developing CAPL scripts.
+Responsibilitie
+s:                           Manually creating Wiz files for Tx signals mainly the Wiz files that
+                              generate ABS, TC and YSC events on the bench in the lab for the
+                              CIM.
+                             Setting up the fault free working CIM after connecting ECU to
+                              simulated sensors and actuators using HIL simulation.
+                             Automated testing using SDATT tool(GM customer).
+                             Creating wiz files for state definition chart and executing cases
+                              accordingly.
+                             Intimating the customer with the overall results.
+
+                             Automake, Bench Wizard, Merlin, CANalyzer, CANape, JTAG and
+Tools &
+                              Code Composer, SDATT Tool
+Software:
+
+
+Client Name:          ZF TRW Automotive
+Project Title:        System Timing Analysis on Vehicle Stability System Module (ABS/TC/YSC)
+Position          :   SW testing Team member
+Period     :          Nov 2005  Dec 2006
+Description       :           System Timing Analysis involves analyzing the timing of each of
+                      the slots defined for the tasks to run before, during and after ABS, TC and
+                      YSC events. System timing analysis is done with all the extreme conditions
+                      possible during the events. Verification of loop times, slot times and each of
+                      the subsystem times is done during ABS/TC/YSC events.
+                      The verification was performed for Daimler Chrysler, Ford and GM
+                      Corporation.
+
+
+                             Manually creating Wiz files for ABS, TC and YSC events.
+Responsibilitie
+s:                           Setting up the fault free working CIM after connecting ECU to
+                              simulated sensors and actuators using HIL simulation.
+                             All the required variables that defines the ABS/TC/YSC behavior and
+                              the timing variables are configured and recorded using Datamax
+                              tool during the events.
+                             Timing results are reviewed and uploaded in trackweb and VSS.
+
+                      Automake, Bench Wizard, Merlin, CANalyzer, CANape, JTAG and Code
+Tools &               Composer, SDATT Tool
+
+
+
+                                                                                              Page 7 of 8
+ devi.nizam@gmail.com                                                                     +91-9550424142
+
+
+
+
+Software:
+
+
+Client Name:          ZF TRW Automotive
+Project Title:        Unit Testing of Braking software
+Position          :   SW Testing Team member
+Period     :          Oct 2005 - Nov 2006
+Description       :   Unit Testing involves coverage analysis, static analysis and investigation of
+                      mismatches The project involves complete unit testing of Vehicle Stability
+                      Systems (ABS/TC/YSC) software using polyspace tool.
+                      The verification was performed for Daimler Chrysler, Ford and GM
+                      Corporation.
+                                Setting verifier to execute through all C files.
+Responsibilitie
+s:                              Find the Red, grey and Orange errors reported by the tool.
+                                Reporting red error to client
+                                Analysis of grey, orange errors and shared variable analysis
+                                Submitting the final report to client through trackweb
+
+
+Tools &                         Polyspace, Trackweb, PVCS and VSS
+Software:
+
+
+ Personal Details
+
+                                Date of Birth   06/06/1984
+
+                                  Nationality   INDIAN
+
+                                         Sex    Male
+
+                              Marital Status    Single
+
+                      Permanent Address         S/o N. Venkateswarlu
+
+                                                H.No: 25/3/1605, Pragathi Nagar  9th Street, Podalkuar
+                                                Road, Nellore
+
+                                                Andhra Pradesh
+
+                                         City   Nellore
+
+                                    Pin Code    524004
+
+                                                01/10//2015 (TCS)
+                              Date of Joining
+                                                01/07/2005 (CMC Limited)
+
+                      Current Designation       Assistant Consultant
+
+
+ Passport Details
+
+  Passport Number               N4005679 (Old: F2742870)
+  Place of Issue                Hyderabad
+  Issued on                     19-10-2005
+  Validity                      18-10-2025
+
+
+
+
+                                                                                                Page 8 of 8
